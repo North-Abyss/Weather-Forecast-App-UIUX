@@ -19,11 +19,8 @@ The interface provides at-a-glance weather information, radar visualization, and
 ---
 
 ## 🖼️ UI Preview
-### Home Screen
-![UI Preview](./assets/ui-preview.png)
-
-### Radar View
-![Radar Screen](./assets/radar-screen.png)
+### Home Screen & Radar View
+![UI Preview](UI.png)
 
 ---
 
