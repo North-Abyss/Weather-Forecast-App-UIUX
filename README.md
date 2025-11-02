@@ -59,7 +59,7 @@ The interface provides at-a-glance weather information, radar visualization, and
 ---
 
 ## 🔗 Figma Prototype
-👉 [View Figma Design Here](#) *(replace this with your Figma link)*
+👉 [View Figma Design Here](https://weather-app-ui-ux.figma.site/) 
 
 ---
 
